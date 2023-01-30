@@ -13,7 +13,7 @@ author:
   name: Danny Deer # author name
   bio: >- # tell to the world
     Game developer working on <a href="https://store.steampowered.com/app/2285940/Hollow_Survivors" target="_blank" rel="noopener">Hollow Survivors</a>
-    and creating assets in the process. If you have any questions regarding the game or the assets, feel free to contact me via email: {{ site.author.email }}
+    and creating assets in the process. If you have any questions regarding the game or the assets, feel free to contact me via email: dannydeerboi@gmail.com
   username: dannydeer # general username
   github: github_username # github username
   twitter: twitter_username # twitter username
