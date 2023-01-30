@@ -1,18 +1,18 @@
 ---
-title: Colophon
+title: Danny Deer
 permalink: /about/
 layout: page
 excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
 comments: false
 ---
 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
+I'm a game developer working on <a href="https://store.steampowered.com/app/2285940/Hollow_Survivors" target="_blank" rel="noopener">Hollow Survivors</a>, creating assets and documenting the whole process on <a href="https://www.youtube.com/channel/UC_SVVfhirQ8l9F-3O-EL9Hg" target="_blank" rel="noopener">Youtube</a>. 
 
-If you have a question about him or else, just send a letter to him.
+**✨Contact:** {{ site.author.email }}
 
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
-
+<!-- You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else. -->
+<!-- 
 **may u needs ✨**
 
 - {{ site.author.email }}
-- github.com/{{ site.author.github }}
+- github.com/{{ site.author.github }} -->
